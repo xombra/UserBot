@@ -1,0 +1,38 @@
+2015-04-18 16:01:07,716 : INFO : irc.client: Connect server=irc.hira.io, port=6697, sasl=False, ssl=True
+2015-04-18 16:01:31,648 : INFO : system.modules: Search modules/several
+2015-04-18 16:02:25,565 : INFO : system.modules: Load several
+2015-04-18 16:12:00,297 : INFO : irc.client: Disconnect server=irc.hira.io
+2015-04-18 16:20:08,210 : INFO : irc.client: Connect server=irc.hira.io, port=6697, sasl=False, ssl=True
+2015-04-18 16:20:08,212 : INFO : irc.client: Se inicio del sistema de envio de mensajes, Network: hira
+2015-04-18 16:20:08,213 : INFO : irc.client: Se inicio del sistema de recepcion de mensajes, Network: hira
+2015-04-18 16:40:30,738 : INFO : system.modules: Search modules/several
+2015-04-18 16:40:30,739 : INFO : system.modules: Search modules/several
+2015-04-18 16:40:48,055 : INFO : system.modules: Load several
+2015-04-18 17:00:55,674 : INFO : irc.client: Disconnect server=irc.hira.io
+2015-04-18 17:00:55,675 : WARNING : irc.client: Se detuvo el sistema de recepcion de mensajes, Network: hira
+2015-04-18 17:00:55,676 : WARNING : irc.client: Se detuvo el sistema de envio de mensajes, Network: hira
+2015-04-18 17:48:06,777 : INFO : irc.client: Connect server=irc.hira.io, port=6697, sasl=False, ssl=True
+2015-04-18 17:48:06,778 : INFO : irc.client: Se inicio del sistema de recepcion de mensajes, Network: hira
+2015-04-18 17:48:06,779 : INFO : irc.client: Se inicio del sistema de envio de mensajes, Network: hira
+2015-04-18 17:59:59,557 : INFO : irc.client: Connect server=irc.hira.io, port=6697, sasl=False, ssl=True
+2015-04-18 17:59:59,558 : INFO : irc.client: Se inicio del sistema de envio de mensajes, Network: hira
+2015-04-18 17:59:59,558 : INFO : irc.client: Se inicio del sistema de recepcion de mensajes, Network: hira
+2015-04-18 18:02:07,549 : WARNING : irc.client: Se detuvo el sistema de recepcion de mensajes, Network: hira
+2015-04-18 18:02:07,549 : INFO : irc.client: Disconnect server=irc.hira.io
+2015-04-18 18:02:16,759 : INFO : irc.client: Connect server=irc.hira.io, port=6697, sasl=False, ssl=True
+2015-04-18 18:02:16,759 : INFO : irc.client: Se inicio del sistema de recepcion de mensajes, Network: hira
+2015-04-18 18:02:16,760 : INFO : irc.client: Se inicio del sistema de envio de mensajes, Network: hira
+2015-04-18 18:02:49,538 : INFO : irc.client: Disconnect server=irc.hira.io
+2015-04-18 18:02:49,538 : WARNING : irc.client: Se detuvo el sistema de recepcion de mensajes, Network: hira
+2015-04-18 18:02:58,056 : INFO : irc.client: Connect server=irc.hira.io, port=6697, sasl=False, ssl=True
+2015-04-18 18:02:58,057 : INFO : irc.client: Se inicio del sistema de envio de mensajes, Network: hira
+2015-04-18 18:02:58,057 : INFO : irc.client: Se inicio del sistema de recepcion de mensajes, Network: hira
+2015-04-18 18:03:40,513 : INFO : irc.client: Se inicio del sistema de envio de mensajes, Network: hira
+2015-04-18 18:03:40,533 : INFO : irc.client: Connect server=irc.hira.io, port=6667, sasl=True, ssl=False
+2015-04-18 18:03:40,545 : INFO : irc.client: Se inicio del sistema de recepcion de mensajes, Network: hira
+2015-04-18 18:05:59,862 : INFO : irc.client: Connect server=irc.hira.io, port=6697, sasl=False, ssl=True
+2015-04-18 18:05:59,863 : INFO : irc.client: Inicio el sistema de envio de mensajes, Network: hira
+2015-04-18 18:05:59,866 : INFO : irc.client: Inicio el sistema de recepcion de mensajes, Network: hira
+2015-04-18 18:07:30,397 : INFO : irc.client: Disconnect server=irc.hira.io
+2015-04-18 18:07:30,397 : WARNING : irc.client: Se detuvo el sistema de envio de mensajes, Network: hira
+2015-04-18 18:07:32,032 : WARNING : irc.client: Se detuvo el sistema de recepcion de mensajes, Network: hira
